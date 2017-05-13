@@ -2,7 +2,7 @@ var dbconfig = {
     host:'localhost',
     user:'root',
     password:'',
-    database:'woohoo'
+    database:'test1'
 
 }
 var express= require('express');
